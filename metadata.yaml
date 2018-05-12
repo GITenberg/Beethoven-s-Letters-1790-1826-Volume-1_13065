@@ -44,6 +44,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/75
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_van_Beethoven
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13065#Beethoven-s-Letters-1790-1826-Volume-1
 gutenberg_bookshelf: Music
 gutenberg_issued: '2004-07-31'
 gutenberg_type: Text
