@@ -1,0 +1,62 @@
+_repo: Beethoven-s-Letters-1790-1826-Volume-1_13065
+_version: 0.1.0
+contributor:
+  compilers:
+  - agent_name: Köchel, Ludwig Ritter von
+    alias: Kochel, Ludwig Ritter von
+    birthdate: 1800
+    deathdate: 1877
+    gutenberg_agent_id: '4812'
+    url: http://www.gutenberg.org/2009/agents/4812
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Ritter_von_K%C3%B6chel
+  - agent_name: Nohl, Ludwig
+    aliases:
+    - Nohl, Louis
+    - Nohl, Karl Friedrich Ludwig
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '4810'
+    url: http://www.gutenberg.org/2009/agents/4810
+    wikipedia: http://de.wikipedia.org/wiki/Ludwig_Nohl
+  translator:
+    agent_name: Wallace, Grace, Lady
+    aliases:
+    - Wallace, Grace Stein Don, Lady
+    - Wallace, Grace Jane
+    - Wallace, Lady
+    deathdate: 1878
+    gutenberg_agent_id: '1760'
+    url: http://www.gutenberg.org/2009/agents/1760
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Jane_Wallace
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beethoven, Ludwig van
+    aliases:
+    - Van Beethoven, Ludwig
+    - Beethoven, Ludwig von
+    - Beethoven, L. van (Ludwig)
+    birthdate: 1770
+    deathdate: 1827
+    gutenberg_agent_id: '75'
+    url: http://www.gutenberg.org/2009/agents/75
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2004-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beethoven, Ludwig van, 1770-1827. Correspondence'
+- !lcsh 'Composers -- Austria -- Correspondence'
+- !lcc 'ML'
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+title: Beethoven's Letters 1790-1826, Volume 1
+url: http://www.gutenberg.org/ebooks/13065
